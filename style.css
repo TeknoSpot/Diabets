@@ -225,7 +225,7 @@ hr{
     display: flex;
     flex-direction: column;
     line-height: 40px;
-    background: url('assets/image4.jpg');
+    background: url('image4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -330,7 +330,7 @@ hr{
     position: relative;
     display: flex;
     flex-direction: column;
-    background-image: url('assets/pexels-nataliya-vaitkevich-6942008.jpg');
+    background-image: url('pexels-nataliya-vaitkevich-6942008.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     justify-content: center;
@@ -477,7 +477,7 @@ hr{
 @media screen and (max-width:852px) {
     .booddy{
         height: 85vh;
-        background-image: url('assets/backmob.jpg');
+        background-image: url('backmob.jpg');
     }
     .booddy h1{
         color: white;
@@ -618,7 +618,7 @@ hr{
 /*  blog outside  */
 
 .blogbody{
-    background-image: url('assets/blogback.jpg');
+    background-image: url('blogback.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -696,7 +696,7 @@ hr{
 /*  blog inside  */
 
 .delbody{
-    background-image: url('assets/blogback.jpg');
+    background-image: url('blogback.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -741,7 +741,7 @@ hr{
     .delbody{
         display: flex;
         height: 100vh;
-        background-image: url('/static/images/blogback.jpg');
+        background-image: url('images/blogback.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -869,7 +869,7 @@ hr{
     width: 100vw;
     height: 100vh;
     color: white;
-    background:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/elderimgs/pexels-leeloo-thefirst-4678921.jpg');
+    background:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('elderimgs/pexels-leeloo-thefirst-4678921.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -991,7 +991,7 @@ hr{
 @media screen and (max-width:852px) {
     
     .headsec1{
-        background:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/elderimgs/pexels-pixabay-69415.jpg');
+        background:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('elderimgs/pexels-pixabay-69415.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -1071,7 +1071,7 @@ hr{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('assets/dietimgs/image5.jpg');
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('dietimgs/image5.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1157,7 +1157,7 @@ hr{
     .dietheader{
         width: 100vw;
         height: 100vh;
-        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('assets/dietimgs/image6.jpg');
+        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('dietimgs/image6.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -1207,7 +1207,7 @@ hr{
     backdrop-filter: blur(40px);
 }
 .mainlate{    
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('assets/pexels-negative-space-177557.jpg');
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('pexels-negative-space-177557.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;    
@@ -1403,7 +1403,7 @@ hr{
 
 .footbody{
     
-    background: url("assets/picture/background.jpeg");    
+    background: url("picture/background.jpeg");    
     background-size: cover;
     background-attachment: fixed;
 }
@@ -1551,7 +1551,7 @@ hr{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/reviews/reviews.jpg');
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('reviews/reviews.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1717,7 +1717,7 @@ textarea{
 /* Success */
 
 .sumain{
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('/static/reviews/pexels-bruno-viana-14213917.jpg');
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('reviews/pexels-bruno-viana-14213917.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1754,7 +1754,7 @@ textarea{
 }
 @media screen and (max-width:852px) {
     .sumain{
-        background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)), url('/static/reviews/pexels-ferdinando-grimaldi-19850346.jpg');
+        background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)), url('reviews/pexels-ferdinando-grimaldi-19850346.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
